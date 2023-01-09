@@ -7,6 +7,6 @@ printf("sum=%d\n",a+b);
 int main()
 {
 printf("welcome to git");
-add(1000,1000);:wq
+add(1000,1000);
 
 }
